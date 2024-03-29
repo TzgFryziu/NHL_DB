@@ -1,0 +1,16 @@
+import datetime
+
+class Match:
+
+    def __init__(self, match_id, date, 
+                 home_team, away_team, home_score, 
+                 away_score):
+        
+        self.match_id = match_id
+        self.date = datetime.datetime.fromtimestamp(date).strftime('%Y-%m-%d %H:%M:%S')
+        self.home_team = home_team
+        self.away_team = away_team
+        self.home_score = home_score
+        self.away_score = away_score
+
+
