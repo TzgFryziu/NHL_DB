@@ -1,10 +1,15 @@
 import requests
 import json
 from time import sleep
-from ..dataclasses_container.Match import Match
-from ..dataclasses_container.Player_stats import Player_stats
+import sys
+sys.path.append("..")
+from dataclasses_container.Match import Match
+from dataclasses_container.Player_stats import Player_stats
+from dataclasses_container.Player import Player
+from dataclasses_container.Team import Team
 
 class Events:
+
     def __init__(self):
         self.API_TIMEOUT = 2
         self.api_headers_common = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
@@ -15,14 +20,6 @@ class Events:
         self.all_matches = []
         self.all_players_stats = []
 
-        for id in self.all_events_id:
-            match = self.get_match(id)
-            self.all_matches.append(match)
-
-        for id in self.all_events_id:
-            stats = self.get_players_stats(id)
-            self.all_players_stats.extend(stats)
-        
         
     def get_match(self,id):
         sleep(self.API_TIMEOUT)
@@ -68,7 +65,28 @@ class Events:
         return result
 
     def get_player_info(self,id):
-        pass
+        sleep(self.API_TIMEOUT)
+        url = f"https://api.sofascore.com/api/v1/player/{id}"
+        response = requests.get(url, headers=self.api_headers_common)
+        response_json = response.json()["player"]
+        player_id = response_json["id"]
+        first_name,last_name = response_json["name"].split(" ")
+        jersey_number = response_json["jerseyNumber"]
+        date_of_birth = response_json["dateOfBirthTimestamp"]
+        position = response_json["position"]
+        country = response_json["country"]["name"]
+        team_id = response_json["team"]["id"]
+        return Player(player_id, first_name,last_name,jersey_number,date_of_birth,position,country,team_id)
+
 
     def get_team_info(self,id):
-        pass
+        sleep(self.API_TIMEOUT)
+        url = f"https://api.sofascore.com/api/v1/team/{id}"
+        response = requests.get(url, headers=self.api_headers_common)
+        response_json = response.json()["team"]
+        team_id = response_json["id"]
+        name = response_json["name"]
+        short_name = response_json["shortName"]
+        namecode = response_json["nameCode"]
+        stadium = response_json["venue"]["stadium"]["name"]
+        return Team(team_id, name, short_name, namecode, stadium)

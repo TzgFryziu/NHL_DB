@@ -12,5 +12,6 @@ class Match:
         self.away_team = away_team
         self.home_score = home_score
         self.away_score = away_score
-
-
+    
+    def __repr__(self) -> str:
+        return f"ID: {self.match_id} Date: {self.date} {self.home_team} {self.home_score} - {self.away_team} {self.away_score}"
