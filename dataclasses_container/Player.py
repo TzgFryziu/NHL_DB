@@ -5,7 +5,7 @@ class Player:
                  first_name,last_name,
                  jersey_number,date_of_birth,
                  position,country,team_id):
-        self.player_id = player_id
+        self.id = player_id
         self.first_name = first_name
         self.last_name = last_name
         self.jersey_number = jersey_number

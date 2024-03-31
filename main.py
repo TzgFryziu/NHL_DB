@@ -3,6 +3,7 @@ from database_connection.nhl_db import NHL_DB
 db = NHL_DB()
 
 db.insert_matches()
+db.insert_players_stats()
 
 
 

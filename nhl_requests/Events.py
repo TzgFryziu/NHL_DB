@@ -51,7 +51,7 @@ class Events:
                 player["statistics"]["secondsPlayed"],
                 player["statistics"]["assists"],
                 player["statistics"]["goals"],
-                player["statistics"]["shots"],
+                player["statistics"]["shots"]
             ))
         for player in away_team:
             result.append(Player_stats(
@@ -60,7 +60,7 @@ class Events:
                 player["statistics"]["secondsPlayed"],
                 player["statistics"]["assists"],
                 player["statistics"]["goals"],
-                player["statistics"]["shots"],
+                player["statistics"]["shots"]
             ))
         return result
 
