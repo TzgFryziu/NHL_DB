@@ -6,8 +6,9 @@ class Match:
                  home_team, away_team, home_score, 
                  away_score):
         
-        self.match_id = match_id
-        self.date = datetime.datetime.fromtimestamp(date).strftime('%Y-%m-%d %H:%M:%S')
+        self.id = match_id
+        self.date = datetime.datetime.fromtimestamp(date).strftime('%Y-%m-%d %H:%M:%S').split(" ")[0]
+        self.time = datetime.datetime.fromtimestamp(date).strftime('%Y-%m-%d %H:%M:%S').split(" ")[1]
         self.home_team = home_team
         self.away_team = away_team
         self.home_score = home_score

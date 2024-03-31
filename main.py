@@ -1,6 +1,9 @@
-from nhl_requests.Events import Events
+from database_connection.nhl_db import NHL_DB
 
-events = Events()
+db = NHL_DB()
+
+db.insert_matches()
+
 
 
 # for id in events.all_events_id[:1]:

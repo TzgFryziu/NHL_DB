@@ -11,7 +11,7 @@ from dataclasses_container.Team import Team
 class Events:
 
     def __init__(self):
-        self.API_TIMEOUT = 2
+        self.API_TIMEOUT = 1
         self.api_headers_common = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
         self.main_url = 'https://api.sofascore.com/api/v1/unique-tournament/234/season/52528/events/last/0'
         self.response = requests.get(self.main_url, headers=self.api_headers_common)
