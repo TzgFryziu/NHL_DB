@@ -2,9 +2,9 @@ from database_connection.nhl_db import NHL_DB
 
 db = NHL_DB()
 
-db.insert_matches()
-db.insert_players_stats()
-
+# db.insert_matches()
+# db.insert_players_stats()
+db.update_teams()
 
 
 # for id in events.all_events_id[:1]:

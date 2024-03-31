@@ -42,17 +42,18 @@ class NHL_DB:
         self.connection.commit()
 
 
-    def is_player_in_db(self,player_id):
-        self.cursor.execute(f"SELECT * FROM players WHERE id = {player_id}")
-        if self.cursor.fetchone() != None:
-            return True
-        return False
-    
-    def add_player_to_db(self,player_id):
-        player = self.events_list.get_player_info(player_id)
-        print(f"Inserting player {player.first_name} {player.last_name} [ID: {player.id} to database")
-        self.cursor.execute(f"INSERT INTO players (id,first_name,last_name,jersey_number,date_of_birth,position,country,team_id) VALUES ({player.id},'{player.first_name}','{player.last_name}',{player.jersey_number},'{player.date_of_birth}','{player.position}','{player.country}',{player.team_id})")
+    def update_teams(self):
+        self.events_list.get_teams_info()
+        for team in self.events_list.all_teams_info:
+            self.cursor.execute(f"SELECT * FROM teams WHERE id = {team.id}")
+            if self.cursor.fetchone() != None:
+                print(f"Team {team.id} already in database")
+                continue
+            self.cursor.execute(f"INSERT INTO teams (id, name, short_name, namecode, position, matches, wins, losses, draws, points) VALUES ({team.id},'{team.name}','{team.short_name}','{team.namecode}',{team.position},{team.matches},{team.wins},{team.losses},{team.draws},{team.points})")
         self.connection.commit()
+
+    def update_players(self):
+        pass
         
     def __del__(self):
         self.connection.close()

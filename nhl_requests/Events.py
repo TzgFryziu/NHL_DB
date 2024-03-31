@@ -19,8 +19,10 @@ class Events:
         
         self.all_matches = []
         self.all_players_stats = []
+        self.all_players_info = []
+        self.all_teams_info = []
 
-        
+
     def get_match(self,id):
         sleep(self.API_TIMEOUT)
         url = f"https://api.sofascore.com/api/v1/event/{id}"
@@ -64,29 +66,31 @@ class Events:
             ))
         return result
 
-    def get_player_info(self,id):
-        sleep(self.API_TIMEOUT)
-        url = f"https://api.sofascore.com/api/v1/player/{id}"
-        response = requests.get(url, headers=self.api_headers_common)
-        response_json = response.json()["player"]
-        player_id = response_json["id"]
-        first_name,last_name = response_json["name"].split(" ")
-        jersey_number = response_json["jerseyNumber"]
-        date_of_birth = response_json["dateOfBirthTimestamp"]
-        position = response_json["position"]
-        country = response_json["country"]["name"]
-        team_id = response_json["team"]["id"]
-        return Player(player_id, first_name,last_name,jersey_number,date_of_birth,position,country,team_id)
+    def get_players_info(self,team_id):
+        pass
 
 
-    def get_team_info(self,id):
+    def get_teams_info(self):
+        result = []
         sleep(self.API_TIMEOUT)
-        url = f"https://api.sofascore.com/api/v1/team/{id}"
+        url = "https://api.sofascore.com/api/v1/unique-tournament/234/season/52528/standings/total"
         response = requests.get(url, headers=self.api_headers_common)
-        response_json = response.json()["team"]
-        team_id = response_json["id"]
-        name = response_json["name"]
-        short_name = response_json["shortName"]
-        namecode = response_json["nameCode"]
-        stadium = response_json["venue"]["stadium"]["name"]
-        return Team(team_id, name, short_name, namecode, stadium)
+        response_json = response.json()
+        rows = response_json["standings"][6]["rows"]
+        for team in rows:
+            
+            result.append(Team(
+                team["team"]["id"],
+                team["team"]["name"],
+                team["team"]["shortName"],
+                team["team"]["nameCode"],
+                team["position"],
+                team["matches"],
+                team["wins"],
+                team["losses"],
+                team["draws"],
+                team["points"]
+            ))
+        self.all_teams_info = result
+
+
