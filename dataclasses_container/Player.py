@@ -2,14 +2,13 @@ import datetime
 
 class Player:
     def __init__(self, player_id, 
-                 first_name,last_name,
-                 jersey_number,date_of_birth,
+                 name,
+                 date_of_birth,
                  position,country,team_id):
         self.id = player_id
-        self.first_name = first_name
-        self.last_name = last_name
-        self.jersey_number = jersey_number
-        self.date_of_birth = datetime.datetime.fromtimestamp(date_of_birth).strftime('%Y-%m-%d %H:%M:%S')
+        self.first_name = name.split(" ")[0]
+        self.last_name = name.split(" ")[1]
+        self.date_of_birth = datetime.datetime.fromtimestamp(date_of_birth).strftime('%Y-%m-%d %H:%M:%S').split(" ")[0]
         self.position = position
         self.country = country
         self.team_id = team_id

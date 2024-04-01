@@ -8,8 +8,8 @@ class NHL_DB:
         host='localhost',
         user='root',
         password='root',
-        database='nhl_test')
-        self.cursor = self.connection.cursor()
+        database='nhl')
+        self.cursor = self.connection.cursor(buffered=True)
         self.events_list = Events()
 
     def insert_matches(self):
@@ -53,7 +53,22 @@ class NHL_DB:
         self.connection.commit()
 
     def update_players(self):
-        pass
+        teams_list = []
+        self.cursor.execute("SELECT id FROM teams")
+        for team in self.cursor:
+            teams_list.append(team[0])
         
+        for team in teams_list:
+            print(f"Getting players for team {team}")
+            self.events_list.get_players_info(team)
+
+        for player in self.events_list.all_players_info:
+            self.cursor.execute(f"SELECT * FROM players WHERE id = {player.id}")
+            if self.cursor.fetchone() != None:
+                print(f"Player {player.id} already in database")
+                continue
+            #print(f"INSERT INTO players (id, first_name, last_name, jersey_number, date_of_birth, position, country, team_id) VALUES ({player.id},'{player.first_name}','{player.last_name}',{player.jersey_number},'{player.date_of_birth}','{player.position}','{player.country}',{player.team_id})")
+            self.cursor.execute(f"INSERT INTO players (id, first_name, last_name, date_of_birth, position, country, team_id) VALUES (%s,%s,%s,%s,%s,%s,%s)", (player.id,player.first_name,player.last_name,player.date_of_birth,player.position,player.country,player.team_id))
+        self.connection.commit()
     def __del__(self):
         self.connection.close()

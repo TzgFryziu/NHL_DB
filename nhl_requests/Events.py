@@ -30,8 +30,8 @@ class Events:
         response_json = response.json()["event"]
         match_id = response_json["id"]
         date = response_json["startTimestamp"]
-        home_team = response_json["homeTeam"]["name"]
-        away_team = response_json["awayTeam"]["name"]
+        home_team = response_json["homeTeam"]["id"]
+        away_team = response_json["awayTeam"]["id"]
         home_score = response_json["homeScore"]["current"]
         away_score = response_json["awayScore"]["current"]
         
@@ -67,7 +67,22 @@ class Events:
         return result
 
     def get_players_info(self,team_id):
-        pass
+        result = []
+        sleep(self.API_TIMEOUT)
+        url = f"https://api.sofascore.com/api/v1/team/{team_id}/players"
+        response = requests.get(url, headers=self.api_headers_common)
+        response_json = response.json()
+        players = response_json["players"]
+        for player in players:
+            result.append(Player(
+                player["player"]["id"],
+                player["player"]["name"],
+                player["player"]["dateOfBirthTimestamp"],
+                player["player"]["position"],
+                player["player"]["country"]["name"],
+                team_id
+            ))
+        self.all_players_info.extend(result)
 
 
     def get_teams_info(self):
