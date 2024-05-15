@@ -1,0 +1,202 @@
+{
+    "events": [
+      {
+        "tournament": {
+          "name": "NHL",
+          "slug": "nhl",
+          "category": {
+            "name": "USA",
+            "slug": "usa",
+            "sport": {
+              "name": "Ice hockey",
+              "slug": "ice-hockey",
+              "id": 4
+            },
+            "id": 37,
+            "country": {
+              "alpha2": "US",
+              "alpha3": "USA",
+              "name": "USA"
+            },
+            "flag": "usa",
+            "alpha2": "US"
+          },
+          "uniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27554,
+            "crowdsourcingEnabled": false,
+            "hasPerformanceGraphFeature": false,
+            "id": 234,
+            "country": {
+  
+            },
+            "hasEventPlayerStatistics": false,
+            "hasBoxScore": true,
+            "displayInverseHomeAwayTeams": true
+          },
+          "priority": 20,
+          "isLive": false,
+          "id": 142
+        },
+        "season": {
+          "name": "NHL 23/24",
+          "year": "23/24",
+          "editor": false,
+          "id": 52528
+        },
+        "roundInfo": {
+          "round": 1
+        },
+        "customId": "EybsRyb",
+        "status": {
+          "code": 100,
+          "description": "Ended",
+          "type": "finished"
+        },
+        "winnerCode": 1,
+        "homeTeam": {
+          "name": "Vancouver Canucks",
+          "slug": "vancouver-canucks",
+          "shortName": "Canucks",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "userCount": 5662,
+          "nameCode": "VAN",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3692,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#001f5b",
+            "secondary": "#008852",
+            "text": "#008852"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ڢانكوڢر كانوكس"
+            },
+            "shortNameTranslation": {
+  
+            }
+          }
+        },
+        "awayTeam": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+  
+            }
+          }
+        },
+        "homeScore": {
+          "current": 4,
+          "display": 4,
+          "period1": 1,
+          "period2": 1,
+          "period3": 2,
+          "normaltime": 4
+        },
+        "awayScore": {
+          "current": 2,
+          "display": 2,
+          "period1": 0,
+          "period2": 1,
+          "period3": 1,
+          "normaltime": 2
+        },
+        "time": {
+          "played": 1200,
+          "periodLength": 1200,
+          "overtimeLength": 300,
+          "totalPeriodCount": 3,
+          "currentPeriodStartTimestamp": 1711254874
+        },
+        "changes": {
+          "changes": [
+            "status.code",
+            "status.description",
+            "status.type",
+            "homeScore.normaltime",
+            "awayScore.normaltime",
+            "time.played"
+          ],
+          "changeTimestamp": 1711255113
+        },
+        "hasGlobalHighlights": true,
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingDataDisplayEnabled": false,
+        "id": 11385187,
+        "startTimestamp": 1711245600,
+        "slug": "vancouver-canucks-calgary-flames",
+        "periods": {
+          "current": "Score",
+          "period1": "1st period",
+          "period2": "2nd period",
+          "period3": "3rd period",
+          "overtime": "Overtime",
+          "penalties": "Penalty"
+        },
+        "finalResultOnly": false,
+        "isEditor": false,
+        "crowdsourcingEnabled": false
+      } 
+    ],
+    "hasNextPage": true
+  }

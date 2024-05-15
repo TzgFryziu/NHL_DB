@@ -1,0 +1,5968 @@
+{
+  "players": [
+    {
+      "player": {
+        "name": "Nazem Kadri",
+        "slug": "kadri-nazem",
+        "shortName": "N. Kadri",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "91",
+        "height": 183,
+        "userCount": 389,
+        "gender": "M",
+        "id": 137295,
+        "country": {
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "name": "Canada"
+        },
+        "shirtNumber": 91,
+        "dateOfBirthTimestamp": 655171200
+      }
+    },
+    {
+      "player": {
+        "name": "Yegor Sharangovich",
+        "slug": "sharangovich-yegor",
+        "shortName": "Y. Sharangovich",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "17",
+        "height": 188,
+        "userCount": 238,
+        "gender": "M",
+        "id": 879686,
+        "country": {
+          "alpha2": "BY",
+          "alpha3": "BLR",
+          "name": "Belarus"
+        },
+        "shirtNumber": 17,
+        "dateOfBirthTimestamp": 897091200
+      }
+    },
+    {
+      "player": {
+        "name": "Jonathan Huberdeau",
+        "slug": "huberdeau-jonathan",
+        "shortName": "J. Huberdeau",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "10",
+        "height": 185,
+        "userCount": 203,
+        "gender": "M",
+        "id": 180709,
+        "country": {
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "name": "Canada"
+        },
+        "shirtNumber": 10,
+        "dateOfBirthTimestamp": 739152000
+      }
+    },
+    {
+      "player": {
+        "name": "Martin Pospisil",
+        "slug": "pospisil-martin",
+        "shortName": "M. Pospisil",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "76",
+        "height": 188,
+        "retired": false,
+        "userCount": 162,
+        "deceased": false,
+        "gender": "M",
+        "id": 968468,
+        "country": {
+          "alpha2": "SK",
+          "alpha3": "SVK",
+          "name": "Slovakia"
+        },
+        "shirtNumber": 76,
+        "dateOfBirthTimestamp": 942969600
+      }
+    },
+    {
+      "player": {
+        "name": "Mikael Backlund",
+        "slug": "backlund-mikael",
+        "shortName": "M. Backlund",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "11",
+        "height": 183,
+        "userCount": 128,
+        "gender": "M",
+        "id": 106592,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden"
+        },
+        "shirtNumber": 11,
+        "dateOfBirthTimestamp": 606096000
+      }
+    },
+    {
+      "player": {
+        "name": "Blake Coleman",
+        "slug": "coleman-blake",
+        "shortName": "B. Coleman",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "20",
+        "height": 180,
+        "userCount": 73,
+        "gender": "M",
+        "id": 867273,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 20,
+        "dateOfBirthTimestamp": 691286400
+      }
+    },
+    {
+      "player": {
+        "name": "Connor Zary",
+        "slug": "zary-connor",
+        "shortName": "C. Zary",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "47",
+        "height": 183,
+        "preferredFoot": "Left",
+        "retired": false,
+        "userCount": 12,
+        "deceased": false,
+        "gender": "M",
+        "id": 1096113,
+        "country": {
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "name": "Canada"
+        },
+        "shirtNumber": 47,
+        "dateOfBirthTimestamp": 1001376000
+      }
+    },
+    {
+      "player": {
+        "name": "Kevin Rooney",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rooney-kevin",
+        "shortName": "K. Rooney",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "21",
+        "height": 188,
+        "retired": false,
+        "userCount": 7,
+        "gender": "M",
+        "id": 973429,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 21,
+        "dateOfBirthTimestamp": 737942400
+      }
+    },
+    {
+      "player": {
+        "name": "Andrei Kuzmenko",
+        "slug": "kuzmenko-andrei",
+        "shortName": "A. Kuzmenko",
+        "team": {
+          "name": "Vancouver Canucks",
+          "slug": "vancouver-canucks",
+          "shortName": "Canucks",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 5710,
+          "nameCode": "VAN",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3692,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#001f5b",
+            "secondary": "#008852",
+            "text": "#008852"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ڢانكوڢر كانوكس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "L",
+        "jerseyNumber": "96",
+        "height": 180,
+        "userCount": 196,
+        "gender": "M",
+        "id": 772491,
+        "country": {
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "name": "Russia"
+        },
+        "shirtNumber": 96,
+        "dateOfBirthTimestamp": 823392000
+      }
+    },
+    {
+      "player": {
+        "name": "Andrew Mangiapane",
+        "slug": "mangiapane-andrew",
+        "shortName": "A. Mangiapane",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "L",
+        "jerseyNumber": "88",
+        "height": 178,
+        "userCount": 71,
+        "gender": "M",
+        "injury": {
+          "id": 479,
+          "reason": "Undisclosed",
+          "comment": "Mangiapane is out for Saturday's (Mar. 30) game against Los Angeles.",
+          "status": "dayToDay",
+          "startDateTimestamp": 1711584000,
+          "updateDateTimestamp": 1711756800
+        },
+        "id": 920029,
+        "country": {
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "name": "Canada"
+        },
+        "shirtNumber": 88,
+        "dateOfBirthTimestamp": 828576000
+      }
+    },
+    {
+      "player": {
+        "name": "A.J. Greer",
+        "firstName": "",
+        "lastName": "",
+        "slug": "greer-aj",
+        "shortName": "A. Greer",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "L",
+        "jerseyNumber": "18",
+        "height": 191,
+        "retired": false,
+        "userCount": 24,
+        "gender": "M",
+        "id": 856049,
+        "country": {
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "name": "Canada"
+        },
+        "shirtNumber": 18,
+        "dateOfBirthTimestamp": 850521600
+      }
+    },
+    {
+      "player": {
+        "name": "Dryden Hunt",
+        "slug": "hunt-dryden",
+        "shortName": "D. Hunt",
+        "team": {
+          "name": "Calgary Wranglers",
+          "slug": "calgary-wranglers",
+          "shortName": "Calgary",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "primaryUniqueTournament": {
+            "name": "AHL",
+            "slug": "ahl",
+            "primaryColorHex": "#004990",
+            "secondaryColorHex": "#ef3e42",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 3638,
+            "id": 844,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 532,
+          "nameCode": "CAL",
+          "national": false,
+          "type": 0,
+          "id": 424009,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "teamColors": {
+            "primary": "#52b030",
+            "secondary": "#52b030",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "Ahl Calgary"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "L",
+        "jerseyNumber": "15",
+        "height": 183,
+        "retired": false,
+        "userCount": 5,
+        "deceased": false,
+        "gender": "M",
+        "id": 855733,
+        "country": {
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "name": "Canada"
+        },
+        "shirtNumber": 15,
+        "dateOfBirthTimestamp": 817171200
+      }
+    },
+    {
+      "player": {
+        "name": "Matt Coronato",
+        "slug": "coronato-matt",
+        "shortName": "M. Coronato",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "R",
+        "jerseyNumber": "27",
+        "height": 178,
+        "retired": false,
+        "userCount": 9,
+        "deceased": false,
+        "gender": "M",
+        "id": 1170006,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 27,
+        "dateOfBirthTimestamp": 1037232000
+      }
+    },
+    {
+      "player": {
+        "name": "Walker Duehr",
+        "firstName": "Walker Duehr",
+        "lastName": "",
+        "slug": "duehr-walker",
+        "shortName": "W. Duehr",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "R",
+        "jerseyNumber": "71",
+        "height": 188,
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 3,
+        "gender": "M",
+        "id": 1138881,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 71,
+        "dateOfBirthTimestamp": 880243200
+      }
+    },
+    {
+      "player": {
+        "name": "MacKenzie Weegar",
+        "slug": "weegar-mackenzie",
+        "shortName": "M. Weegar",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "52",
+        "height": 183,
+        "userCount": 57,
+        "gender": "M",
+        "id": 875851,
+        "country": {
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "name": "Canada"
+        },
+        "shirtNumber": 52,
+        "dateOfBirthTimestamp": 757900800
+      }
+    },
+    {
+      "player": {
+        "name": "Rasmus Andersson",
+        "slug": "andersson-rasmus",
+        "shortName": "R. Andersson",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 185,
+        "userCount": 42,
+        "gender": "M",
+        "id": 875541,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden"
+        },
+        "shirtNumber": 4,
+        "dateOfBirthTimestamp": 846374400
+      }
+    },
+    {
+      "player": {
+        "name": "Nikita Okhotiuk",
+        "firstName": "Nikita Okhotyuk",
+        "lastName": "",
+        "slug": "okhotiuk-nikita",
+        "shortName": "N. Okhotiuk",
+        "team": {
+          "name": "San Jose Sharks",
+          "slug": "san-jose-sharks",
+          "shortName": "Sharks",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 3686,
+          "nameCode": "SJ",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3696,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "teamColors": {
+            "primary": "#006d75",
+            "secondary": "#ea7200",
+            "text": "#ea7200"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سان جوزي شاركس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "28",
+        "height": 185,
+        "retired": false,
+        "userCount": 21,
+        "gender": "M",
+        "id": 1096964,
+        "country": {
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "name": "Russia"
+        },
+        "shirtNumber": 28,
+        "dateOfBirthTimestamp": 975888000
+      }
+    },
+    {
+      "player": {
+        "name": "Daniil Miromanov",
+        "slug": "miromanov-daniil",
+        "shortName": "D. Miromanov",
+        "team": {
+          "name": "Henderson Silver Knights",
+          "slug": "henderson-silver-knights",
+          "shortName": "Henderson",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "AHL",
+            "slug": "ahl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "AHL",
+              "slug": "ahl",
+              "primaryColorHex": "#004990",
+              "secondaryColorHex": "#ef3e42",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 3638,
+              "id": 844,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 0,
+            "isLive": false,
+            "id": 2768
+          },
+          "primaryUniqueTournament": {
+            "name": "AHL",
+            "slug": "ahl",
+            "primaryColorHex": "#004990",
+            "secondaryColorHex": "#ef3e42",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 3638,
+            "id": 844,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 421,
+          "nameCode": "HEN",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 374579,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "teamColors": {
+            "primary": "#52b030",
+            "secondary": "#52b030",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "62",
+        "height": 193,
+        "retired": false,
+        "userCount": 17,
+        "deceased": false,
+        "gender": "M",
+        "id": 895874,
+        "country": {
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "name": "Russia"
+        },
+        "shirtNumber": 62,
+        "dateOfBirthTimestamp": 868579200
+      }
+    },
+    {
+      "player": {
+        "name": "Oliver Kylington",
+        "slug": "kylington-oliver",
+        "shortName": "O. Kylington",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "58",
+        "height": 183,
+        "userCount": 7,
+        "gender": "M",
+        "id": 930906,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden"
+        },
+        "shirtNumber": 58,
+        "dateOfBirthTimestamp": 864000000
+      }
+    },
+    {
+      "player": {
+        "name": "Brayden Pachal",
+        "firstName": "Brayden Pachal",
+        "slug": "pachal-brayden",
+        "shortName": "B. Pachal",
+        "team": {
+          "name": "Vegas Golden Knights",
+          "slug": "vegas-golden-knights",
+          "shortName": "Golden Knights",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 9267,
+          "nameCode": "VGK",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 257523,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "teamColors": {
+            "primary": "#333f42",
+            "secondary": "#b4975a",
+            "text": "#b4975a"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيغاس غولدن نايتس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "94",
+        "height": 188,
+        "retired": false,
+        "userCount": 7,
+        "deceased": false,
+        "gender": "M",
+        "id": 1138921,
+        "country": {
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "name": "Canada"
+        },
+        "shirtNumber": 94,
+        "dateOfBirthTimestamp": 935366400
+      }
+    },
+    {
+      "player": {
+        "name": "Dennis Gilbert",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gilbert-dennis",
+        "shortName": "D. Gilbert",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "48",
+        "height": 188,
+        "retired": false,
+        "userCount": 6,
+        "gender": "M",
+        "id": 948828,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 48,
+        "dateOfBirthTimestamp": 846633600
+      }
+    },
+    {
+      "player": {
+        "name": "Joel Hanley",
+        "slug": "hanley-joel",
+        "shortName": "J. Hanley",
+        "team": {
+          "name": "Dallas Stars",
+          "slug": "dallas-stars",
+          "shortName": "Stars",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 6116,
+          "nameCode": "DAL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3684,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "teamColors": {
+            "primary": "#006847",
+            "secondary": "#111111",
+            "text": "#111111"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دالاس ستارس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 180,
+        "userCount": 3,
+        "gender": "M",
+        "id": 836228,
+        "country": {
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "name": "Canada"
+        },
+        "shirtNumber": 44,
+        "dateOfBirthTimestamp": 676339200
+      }
+    },
+    {
+      "player": {
+        "name": "Jacob Markstrom",
+        "slug": "markstrom-jacob",
+        "shortName": "J. Markstrom",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "G",
+        "jerseyNumber": "25",
+        "height": 198,
+        "userCount": 68,
+        "gender": "M",
+        "id": 790850,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden"
+        },
+        "shirtNumber": 25,
+        "dateOfBirthTimestamp": 633744000
+      }
+    },
+    {
+      "player": {
+        "name": "Dan Vladar",
+        "firstName": "",
+        "lastName": "",
+        "slug": "vladar-dan",
+        "shortName": "D. Vladar",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "G",
+        "jerseyNumber": "80",
+        "height": 196,
+        "userCount": 36,
+        "gender": "M",
+        "injury": {
+          "id": 437,
+          "reason": "Hip",
+          "comment": "The Calgary Flames announced G Dan Vladar will receive season-ending hip surgery next week.",
+          "status": "outForSeason",
+          "startDateTimestamp": 1710979200,
+          "updateDateTimestamp": 1710979200
+        },
+        "id": 878391,
+        "country": {
+          "alpha2": "CZ",
+          "alpha3": "CZE",
+          "name": "Czech Republic"
+        },
+        "shirtNumber": 80,
+        "dateOfBirthTimestamp": 872035200
+      }
+    },
+    {
+      "player": {
+        "name": "Dustin Wolf",
+        "slug": "wolf-dustin",
+        "shortName": "D. Wolf",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "G",
+        "jerseyNumber": "32",
+        "height": 183,
+        "retired": false,
+        "userCount": 8,
+        "deceased": false,
+        "gender": "M",
+        "id": 1012763,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 32,
+        "dateOfBirthTimestamp": 987379200
+      }
+    }
+  ],
+  "foreignPlayers": [
+    {
+      "player": {
+        "name": "Yegor Sharangovich",
+        "slug": "sharangovich-yegor",
+        "shortName": "Y. Sharangovich",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "17",
+        "height": 188,
+        "userCount": 238,
+        "gender": "M",
+        "id": 879686,
+        "country": {
+          "alpha2": "BY",
+          "alpha3": "BLR",
+          "name": "Belarus"
+        },
+        "shirtNumber": 17,
+        "dateOfBirthTimestamp": 897091200
+      }
+    },
+    {
+      "player": {
+        "name": "Dan Vladar",
+        "firstName": "",
+        "lastName": "",
+        "slug": "vladar-dan",
+        "shortName": "D. Vladar",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "G",
+        "jerseyNumber": "80",
+        "height": 196,
+        "userCount": 36,
+        "gender": "M",
+        "injury": {
+          "id": 437,
+          "reason": "Hip",
+          "comment": "The Calgary Flames announced G Dan Vladar will receive season-ending hip surgery next week.",
+          "status": "outForSeason",
+          "startDateTimestamp": 1710979200,
+          "updateDateTimestamp": 1710979200
+        },
+        "id": 878391,
+        "country": {
+          "alpha2": "CZ",
+          "alpha3": "CZE",
+          "name": "Czech Republic"
+        },
+        "shirtNumber": 80,
+        "dateOfBirthTimestamp": 872035200
+      }
+    },
+    {
+      "player": {
+        "name": "Andrei Kuzmenko",
+        "slug": "kuzmenko-andrei",
+        "shortName": "A. Kuzmenko",
+        "team": {
+          "name": "Vancouver Canucks",
+          "slug": "vancouver-canucks",
+          "shortName": "Canucks",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 5710,
+          "nameCode": "VAN",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3692,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#001f5b",
+            "secondary": "#008852",
+            "text": "#008852"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ڢانكوڢر كانوكس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "L",
+        "jerseyNumber": "96",
+        "height": 180,
+        "userCount": 196,
+        "gender": "M",
+        "id": 772491,
+        "country": {
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "name": "Russia"
+        },
+        "shirtNumber": 96,
+        "dateOfBirthTimestamp": 823392000
+      }
+    },
+    {
+      "player": {
+        "name": "Daniil Miromanov",
+        "slug": "miromanov-daniil",
+        "shortName": "D. Miromanov",
+        "team": {
+          "name": "Henderson Silver Knights",
+          "slug": "henderson-silver-knights",
+          "shortName": "Henderson",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "AHL",
+            "slug": "ahl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "AHL",
+              "slug": "ahl",
+              "primaryColorHex": "#004990",
+              "secondaryColorHex": "#ef3e42",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 3638,
+              "id": 844,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 0,
+            "isLive": false,
+            "id": 2768
+          },
+          "primaryUniqueTournament": {
+            "name": "AHL",
+            "slug": "ahl",
+            "primaryColorHex": "#004990",
+            "secondaryColorHex": "#ef3e42",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 3638,
+            "id": 844,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 421,
+          "nameCode": "HEN",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 374579,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "teamColors": {
+            "primary": "#52b030",
+            "secondary": "#52b030",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "62",
+        "height": 193,
+        "retired": false,
+        "userCount": 17,
+        "deceased": false,
+        "gender": "M",
+        "id": 895874,
+        "country": {
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "name": "Russia"
+        },
+        "shirtNumber": 62,
+        "dateOfBirthTimestamp": 868579200
+      }
+    },
+    {
+      "player": {
+        "name": "Nikita Okhotiuk",
+        "firstName": "Nikita Okhotyuk",
+        "lastName": "",
+        "slug": "okhotiuk-nikita",
+        "shortName": "N. Okhotiuk",
+        "team": {
+          "name": "San Jose Sharks",
+          "slug": "san-jose-sharks",
+          "shortName": "Sharks",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 3686,
+          "nameCode": "SJ",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3696,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "teamColors": {
+            "primary": "#006d75",
+            "secondary": "#ea7200",
+            "text": "#ea7200"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سان جوزي شاركس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "28",
+        "height": 185,
+        "retired": false,
+        "userCount": 21,
+        "gender": "M",
+        "id": 1096964,
+        "country": {
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "name": "Russia"
+        },
+        "shirtNumber": 28,
+        "dateOfBirthTimestamp": 975888000
+      }
+    },
+    {
+      "player": {
+        "name": "Rasmus Andersson",
+        "slug": "andersson-rasmus",
+        "shortName": "R. Andersson",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 185,
+        "userCount": 42,
+        "gender": "M",
+        "id": 875541,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden"
+        },
+        "shirtNumber": 4,
+        "dateOfBirthTimestamp": 846374400
+      }
+    },
+    {
+      "player": {
+        "name": "Mikael Backlund",
+        "slug": "backlund-mikael",
+        "shortName": "M. Backlund",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "11",
+        "height": 183,
+        "userCount": 128,
+        "gender": "M",
+        "id": 106592,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden"
+        },
+        "shirtNumber": 11,
+        "dateOfBirthTimestamp": 606096000
+      }
+    },
+    {
+      "player": {
+        "name": "Oliver Kylington",
+        "slug": "kylington-oliver",
+        "shortName": "O. Kylington",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "58",
+        "height": 183,
+        "userCount": 7,
+        "gender": "M",
+        "id": 930906,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden"
+        },
+        "shirtNumber": 58,
+        "dateOfBirthTimestamp": 864000000
+      }
+    },
+    {
+      "player": {
+        "name": "Jacob Markstrom",
+        "slug": "markstrom-jacob",
+        "shortName": "J. Markstrom",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "G",
+        "jerseyNumber": "25",
+        "height": 198,
+        "userCount": 68,
+        "gender": "M",
+        "id": 790850,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden"
+        },
+        "shirtNumber": 25,
+        "dateOfBirthTimestamp": 633744000
+      }
+    },
+    {
+      "player": {
+        "name": "Martin Pospisil",
+        "slug": "pospisil-martin",
+        "shortName": "M. Pospisil",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "76",
+        "height": 188,
+        "retired": false,
+        "userCount": 162,
+        "deceased": false,
+        "gender": "M",
+        "id": 968468,
+        "country": {
+          "alpha2": "SK",
+          "alpha3": "SVK",
+          "name": "Slovakia"
+        },
+        "shirtNumber": 76,
+        "dateOfBirthTimestamp": 942969600
+      }
+    },
+    {
+      "player": {
+        "name": "Blake Coleman",
+        "slug": "coleman-blake",
+        "shortName": "B. Coleman",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "20",
+        "height": 180,
+        "userCount": 73,
+        "gender": "M",
+        "id": 867273,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 20,
+        "dateOfBirthTimestamp": 691286400
+      }
+    },
+    {
+      "player": {
+        "name": "Matt Coronato",
+        "slug": "coronato-matt",
+        "shortName": "M. Coronato",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "R",
+        "jerseyNumber": "27",
+        "height": 178,
+        "retired": false,
+        "userCount": 9,
+        "deceased": false,
+        "gender": "M",
+        "id": 1170006,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 27,
+        "dateOfBirthTimestamp": 1037232000
+      }
+    },
+    {
+      "player": {
+        "name": "Walker Duehr",
+        "firstName": "Walker Duehr",
+        "lastName": "",
+        "slug": "duehr-walker",
+        "shortName": "W. Duehr",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "R",
+        "jerseyNumber": "71",
+        "height": 188,
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 3,
+        "gender": "M",
+        "id": 1138881,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 71,
+        "dateOfBirthTimestamp": 880243200
+      }
+    },
+    {
+      "player": {
+        "name": "Dennis Gilbert",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gilbert-dennis",
+        "shortName": "D. Gilbert",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "48",
+        "height": 188,
+        "retired": false,
+        "userCount": 6,
+        "gender": "M",
+        "id": 948828,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 48,
+        "dateOfBirthTimestamp": 846633600
+      }
+    },
+    {
+      "player": {
+        "name": "Kevin Rooney",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rooney-kevin",
+        "shortName": "K. Rooney",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "C",
+        "jerseyNumber": "21",
+        "height": 188,
+        "retired": false,
+        "userCount": 7,
+        "gender": "M",
+        "id": 973429,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 21,
+        "dateOfBirthTimestamp": 737942400
+      }
+    },
+    {
+      "player": {
+        "name": "Dustin Wolf",
+        "slug": "wolf-dustin",
+        "shortName": "D. Wolf",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "G",
+        "jerseyNumber": "32",
+        "height": 183,
+        "retired": false,
+        "userCount": 8,
+        "deceased": false,
+        "gender": "M",
+        "id": 1012763,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 32,
+        "dateOfBirthTimestamp": 987379200
+      }
+    }
+  ],
+  "nationalPlayers": [
+    {
+      "player": {
+        "name": "MacKenzie Weegar",
+        "slug": "weegar-mackenzie",
+        "shortName": "M. Weegar",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "D",
+        "jerseyNumber": "52",
+        "height": 183,
+        "userCount": 57,
+        "gender": "M",
+        "id": 875851,
+        "country": {
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "name": "Canada"
+        },
+        "shirtNumber": 52,
+        "dateOfBirthTimestamp": 757900800
+      }
+    },
+    {
+      "player": {
+        "name": "Andrei Kuzmenko",
+        "slug": "kuzmenko-andrei",
+        "shortName": "A. Kuzmenko",
+        "team": {
+          "name": "Vancouver Canucks",
+          "slug": "vancouver-canucks",
+          "shortName": "Canucks",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 5710,
+          "nameCode": "VAN",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3692,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#001f5b",
+            "secondary": "#008852",
+            "text": "#008852"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ڢانكوڢر كانوكس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "L",
+        "jerseyNumber": "96",
+        "height": 180,
+        "userCount": 196,
+        "gender": "M",
+        "id": 772491,
+        "country": {
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "name": "Russia"
+        },
+        "shirtNumber": 96,
+        "dateOfBirthTimestamp": 823392000
+      }
+    },
+    {
+      "player": {
+        "name": "Matt Coronato",
+        "slug": "coronato-matt",
+        "shortName": "M. Coronato",
+        "team": {
+          "name": "Calgary Flames",
+          "slug": "calgary-flames",
+          "shortName": "Flames",
+          "gender": "M",
+          "sport": {
+            "name": "Ice hockey",
+            "slug": "ice-hockey",
+            "id": 4
+          },
+          "tournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "uniqueTournament": {
+              "name": "NHL",
+              "slug": "nhl",
+              "secondaryColorHex": "#808291",
+              "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                  "name": "Ice hockey",
+                  "slug": "ice-hockey",
+                  "id": 4
+                },
+                "id": 37,
+                "country": {
+                  "alpha2": "US",
+                  "alpha3": "USA",
+                  "name": "USA"
+                },
+                "flag": "usa",
+                "alpha2": "US"
+              },
+              "userCount": 27655,
+              "id": 234,
+              "country": {
+
+              },
+              "displayInverseHomeAwayTeams": true
+            },
+            "priority": 20,
+            "isLive": false,
+            "id": 142
+          },
+          "primaryUniqueTournament": {
+            "name": "NHL",
+            "slug": "nhl",
+            "secondaryColorHex": "#808291",
+            "category": {
+              "name": "USA",
+              "slug": "usa",
+              "sport": {
+                "name": "Ice hockey",
+                "slug": "ice-hockey",
+                "id": 4
+              },
+              "id": 37,
+              "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "name": "USA"
+              },
+              "flag": "usa",
+              "alpha2": "US"
+            },
+            "userCount": 27655,
+            "id": 234,
+            "country": {
+
+            },
+            "displayInverseHomeAwayTeams": true
+          },
+          "userCount": 4168,
+          "nameCode": "CGY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 3679,
+          "country": {
+            "alpha2": "CA",
+            "alpha3": "CAN",
+            "name": "Canada"
+          },
+          "teamColors": {
+            "primary": "#ce1126",
+            "secondary": "#f3bc52",
+            "text": "#f3bc52"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كالجاري فلايمس"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "position": "R",
+        "jerseyNumber": "27",
+        "height": 178,
+        "retired": false,
+        "userCount": 9,
+        "deceased": false,
+        "gender": "M",
+        "id": 1170006,
+        "country": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "name": "USA"
+        },
+        "shirtNumber": 27,
+        "dateOfBirthTimestamp": 1037232000
+      }
+    }
+  ],
+  "supportStaff": []
+}

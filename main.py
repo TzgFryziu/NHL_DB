@@ -4,7 +4,7 @@ db = NHL_DB()
 
 # db.update_teams()
 # db.update_players()
-# db.insert_matches()
+db.insert_matches()
 db.insert_players_stats()
 
 

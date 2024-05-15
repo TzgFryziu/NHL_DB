@@ -1,0 +1,106 @@
+{
+  "statistics": [
+    {
+      "period": "ALL",
+      "groups": [
+        {
+          "groupName": "Attacking",
+          "statisticsItems": [
+            {
+              "name": "Shots",
+              "home": "38",
+              "away": "22",
+              "compareCode": 1,
+              "statisticsType": "positive",
+              "valueType": "event",
+              "homeValue": 38,
+              "awayValue": 22
+            },
+            {
+              "name": "Goals in powerplay",
+              "home": "0",
+              "away": "2",
+              "compareCode": 2,
+              "statisticsType": "positive",
+              "valueType": "event",
+              "homeValue": 0,
+              "awayValue": 2
+            },
+            {
+              "name": "Shorthanded goals",
+              "home": "0",
+              "away": "0",
+              "compareCode": 3,
+              "statisticsType": "positive",
+              "valueType": "event",
+              "homeValue": 0,
+              "awayValue": 0
+            },
+            {
+              "name": "Faceoffs won",
+              "home": "25/57 (43%)",
+              "away": "32/57 (56%)",
+              "compareCode": 2,
+              "statisticsType": "positive",
+              "valueType": "team",
+              "homeValue": 25,
+              "awayValue": 32,
+              "homeTotal": 57,
+              "awayTotal": 57
+            },
+            {
+              "name": "Blocked",
+              "home": "7",
+              "away": "25",
+              "compareCode": 2,
+              "statisticsType": "positive",
+              "valueType": "event",
+              "homeValue": 7,
+              "awayValue": 25
+            },
+            {
+              "name": "Takeaways",
+              "home": "12",
+              "away": "5",
+              "compareCode": 1,
+              "statisticsType": "positive",
+              "valueType": "event",
+              "homeValue": 12,
+              "awayValue": 5
+            },
+            {
+              "name": "Giveaways",
+              "home": "9",
+              "away": "8",
+              "compareCode": 1,
+              "statisticsType": "negative",
+              "valueType": "event",
+              "homeValue": 9,
+              "awayValue": 8
+            },
+            {
+              "name": "Hits",
+              "home": "39",
+              "away": "33",
+              "compareCode": 1,
+              "statisticsType": "positive",
+              "valueType": "event",
+              "homeValue": 39,
+              "awayValue": 33
+            },
+            {
+              "name": "Penalty minutes",
+              "home": "16",
+              "away": "6",
+              "compareCode": 1,
+              "statisticsType": "negative",
+              "valueType": "event",
+              "homeValue": 16,
+              "awayValue": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
